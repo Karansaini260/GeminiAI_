@@ -1,2 +1,2 @@
 # GeminiAI_
-I make this project using Streamlit(Pyrhon)
+I make this project using Streamlit(Python)
